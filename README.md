@@ -1,4 +1,4 @@
-# CashCowProtocol
+Protocol
 
 https://www.cryptominespacex.com/ Feel free to read the code
 
